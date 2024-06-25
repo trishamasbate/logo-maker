@@ -1,4 +1,4 @@
-# SVG Logo Maker
+# 🏁 SVG Logo Maker 
 
 [![github-follow](https://img.shields.io/github/followers/trishamasbate?label=Follow&logoColor=purple&style=social)](https://github.com/trishamasbate)
 [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
@@ -11,7 +11,7 @@ By focusing on usability, reliability, and educational resources, the applicatio
 
 
 ## 📌 Table of Contents
-- [SVG Logo Maker](#svg-logo-maker)
+- [🏁 SVG Logo Maker](#-svg-logo-maker)
   - [📃 Description:](#-description)
   - [📌 Table of Contents](#-table-of-contents)
   - [🔎 User Story](#-user-story)
@@ -61,7 +61,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
 ## 🎞️ Walkthrough Video:
-[Click Here to Watch](https://youtu.be/sv7BrslOOwE?si=ES1h9TzQtAuHhy4f)
+[Click TO WATCH SOME MAGIC!]()
 
 ## 📸 Screenshots:
 ### 🟢 Terminal/Command Line Application
