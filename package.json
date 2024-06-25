@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trishamasbate/svg-logo-maker.git"
+    "url": "git+https://github.com/trishamasbate/logo-maker.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/trishamasbate/svg-logo-maker/issues"
+    "url": "https://github.com/trishamasbate/logo-maker/issues"
   },
-  "homepage": "https://github.com/trishamasbate/svg-logo-maker#readme",
+  "homepage": "https://github.com/trishamasbate/logo-maker#readme",
   "devDependencies": {
     "jest": "^29.7.0"
   },
