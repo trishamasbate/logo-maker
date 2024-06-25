@@ -78,8 +78,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
    - Node.JS [Version 20.14.0](https://nodejs.org/en/blog/release/v20.14.0/) 
    - Jest [Version 24.9.0](https://www.npmjs.com/package/jest)
    - Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
-3. Open the cloned repository in any source code editor.
-4. Open the integrated terminal for the document and complete the respective installation guides provided above in section (2.) to ensure the cloned documentation will operate.
+3. Open the cloned repository in the terminal.
+4. Provide the information according to the prompts.
 
 
 ## 🗝️ Resources
