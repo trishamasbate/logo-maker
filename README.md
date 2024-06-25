@@ -61,7 +61,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
 ## 🎞️ Walkthrough Video:
-[Click TO WATCH SOME MAGIC!]()
+[Click To Watch Some Magic!](https://youtu.be/-nzgNuzBikM?si=KxQSr35dC_M1sDAA)
 
 ## 📸 Screenshots:
 ### 🟢 Terminal/Command Line Application
@@ -73,7 +73,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
 ## 📲 Installation Process
-1. Clone the repository: [SVG Logo Maker](https://github.com/Thecaprifire/logo-folio)
+1. Clone the repository: [SVG Logo Maker](git@github.com:trishamasbate/logo-maker.git)
 2. Install the following: 
    - Node.JS [Version 20.14.0](https://nodejs.org/en/blog/release/v20.14.0/) 
    - Jest [Version 24.9.0](https://www.npmjs.com/package/jest)
