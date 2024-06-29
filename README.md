@@ -61,7 +61,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
 ## 🎞️ Walkthrough Video:
-[Click To Watch Some Magic!](https://youtu.be/-nzgNuzBikM?si=KxQSr35dC_M1sDAA)
+[Click To Watch Some Magic!](https://youtu.be/GOMwXfJ4-go?si=iECUms342DoM7giT)
 
 ## 📸 Screenshots:
 ### 🟢 Terminal/Command Line Application
